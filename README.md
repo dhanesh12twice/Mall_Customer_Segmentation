@@ -1,11 +1,7 @@
 # Mall Customer Segmentation
----
 
 ### Description:
 This project "Mall Customer Segmentation" unites various kindof customers based upon the customer_data. By taking this segmentation, we could find the number of potential customers for that mall,thereby increasing our business value. This problem is tackled using an Unsupervised Clustering algorithm (KMeans algorithm). KMeans clustering algorithm is the optimised clustering algorithm on Machine Learning. 
-
-<br />
-<br />
 
 ### Procedure:
 1. Imported the essential modules
