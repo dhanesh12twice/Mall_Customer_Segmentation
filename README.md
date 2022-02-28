@@ -1,5 +1,5 @@
 # Mall Customer Segmentation
-<br />
+
 ---
 
 ### Description:
@@ -7,7 +7,6 @@ This project "Mall Customer Segmentation" unites various kindof customers based 
 
 <br />
 <br />
-
 ### Procedure:
 1. Imported the essential modules
 2. Download and imported the 'Mall Customer Segmentation' dataset from Kaggle.
